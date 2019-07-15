@@ -1,0 +1,7 @@
+.gradle/
+.idea/
+async.log
+test.log
+.java-version
+gradle/wrapper/gradle-wrapper.properties
+gradle/wrapper/gradle-wrapper.jar
